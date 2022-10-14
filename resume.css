@@ -1,0 +1,65 @@
+body{
+    background-color: #d8d7e0;
+}
+
+.whole{
+border: 5px black solid;
+width: auto;
+height: 100%;
+padding: 10px;
+}
+
+.interior{
+    font-size: 24px;
+    color: black;
+    text-align: center;
+    border: 5px solid black;
+    height: 260px;
+    background-color: #526a80;
+}
+
+.two{
+text-align: left;
+color: black;
+border: 5px solid black;
+font-size: 24px;
+}
+
+.edu{
+    margin-left: 40px;
+    margin-top: -20px;
+}
+
+.circle{
+    position: absolute;
+    width: 230px;
+    height: 230px;
+    margin-left: -710px;
+    margin-top: -340px;
+    transition: width 2s, height 2s;
+}
+
+.circle:hover {
+    width: 300px;
+    height: 300px;
+}
+
+h4{
+    background-color: #526a80;
+    color: white;
+}
+
+.top{
+    color: white;
+}
+
+.title{
+    margin-left: 40px;
+    margin-top: -20px;
+    background-color: #d8d7e0;
+    color: black;
+}
+
+.job{
+    font-size: 18px;
+}
